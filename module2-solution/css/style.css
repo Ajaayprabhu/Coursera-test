@@ -29,6 +29,7 @@
   				padding-top: 55px;
   				background-color: rgba(0,0,0,0.3);
   			}
+				
   			.content-title
   			{
   				overflow: none;
@@ -70,3 +71,16 @@
     	width: 100%;
   			}
 			}
+			.name1
+			{
+				background-color:#FFC0CB;
+			}
+			.name2
+			{
+				background-color:red;
+			}
+			.name3
+			{
+				background-color:yellow;
+			}
+	
